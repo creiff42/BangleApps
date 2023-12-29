@@ -1,0 +1,10 @@
+{ "id": "pedometer",
+  "name": "Pedometer",
+  "shortName":"Pedometer",
+  "version":"0.01",
+  "description": "Just shows the daily taken steps on the screen.",
+  "tags": "",
+  "storage": [
+    {"name":"pedometer.app.js","url":"app.js"}
+  ]
+}
