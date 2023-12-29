@@ -5,6 +5,7 @@
   "description": "Just shows the daily taken steps on the screen.",
   "tags": "",
   "storage": [
-    {"name":"pedometer.app.js","url":"app.js"}
+    {"name":"pedometer.app.js","url":"app.js"},
+    {"name":"pedometer.img","url":"app-icon.js","evaluate":true}
   ]
 }
