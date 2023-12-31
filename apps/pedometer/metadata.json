@@ -1,7 +1,7 @@
 { "id": "pedometer",
   "name": "Pedometer by Christian",
   "shortName":"Pedometer",
-  "version":"0.01",
+  "version":"0.02",
   "description": "Just shows the daily taken steps on the screen.",
   "icon": "app.png",
   "tags": "",
