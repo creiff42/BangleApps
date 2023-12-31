@@ -1,5 +1,5 @@
 g.setFontAlign(0,0); // center font
-g.setFont("Vector",80);
+g.setFont("Vector",60);
 
 var steps = Bangle.getHealthStatus("day").steps;
 
